@@ -1,2 +1,4 @@
 # simul-nano
-Nanobot simulation for virus/cancer elimnation
+Nanobot simulation game for virus/cancer elimnation
+
+SAMPLE PROJECT. 
